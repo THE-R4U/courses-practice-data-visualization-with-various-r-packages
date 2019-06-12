@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'R Data Visualization Packages in R'
+description: 'Introduce various data visualization packages in R.'
 ---
 
 ## Example coding exercise
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+## Data Visualization Packages in R
+
+```yaml
+type: VideoExercise
+key: ec1308af30
+xp: 50
+```
+
+`@projector_key`
+a04e0c8726256b0922bee5a00df24548
