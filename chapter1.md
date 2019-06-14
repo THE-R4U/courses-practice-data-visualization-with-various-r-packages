@@ -1,6 +1,7 @@
 ---
 title: 'R Data Visualization Packages in R'
 description: 'Introduce various data visualization packages in R.'
+free_preview: true
 ---
 
 ## Example coding exercise
